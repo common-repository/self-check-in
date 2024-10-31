@@ -1,0 +1,418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Self Check-In\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-07 09:49+0000\n"
+"PO-Revision-Date: 2024-08-07 10:07+0000\n"
+"Last-Translator: \n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: self-check-in"
+
+#: admin/tabs/overview/overview.php:175
+msgid "Action"
+msgstr "Azione"
+
+#: frontend/templates/insert-guests.php:7
+msgid "Add Guest Information for Booking"
+msgstr "Aggiungi Ospite Informazioni per la Prenotazione"
+
+#: admin/tabs/overview/edit-overview.php:61
+#: admin/tabs/overview/edit-overview.php:500
+msgid "Add Row"
+msgstr "Aggiungere La Riga"
+
+#: admin/tabs/settings/settings.php:96
+msgid "Add-on"
+msgstr "Add-on"
+
+#: admin/tabs/tabs.php:41
+msgid "An error occurred!"
+msgstr "Si è verificato un errore!"
+
+#: admin/tabs/overview/edit-overview.php:44
+#: admin/tabs/overview/overview.php:172 admin/tabs/overview/overview.php:272
+msgid "Arrival Date"
+msgstr "Data Di Arrivo"
+
+#: frontend/templates/update-guests.php:390
+#: admin/tabs/overview/edit-overview.php:507
+msgid "Back"
+msgstr "Indietro"
+
+#: admin/tabs/overview/edit-overview.php:36
+#: admin/tabs/overview/overview.php:170 admin/tabs/overview/overview.php:231
+msgid "Booking ID"
+msgstr "L'ID della prenotazione"
+
+#: admin/tabs/overview/edit-overview.php:39
+#: admin/tabs/overview/overview.php:235
+msgid "Booking ID not available"
+msgstr "L'ID della prenotazione non disponibile"
+
+#: admin/tabs/overview/edit-overview.php:30
+msgid "Check-In"
+msgstr "Il Check-In"
+
+#: frontend/templates/insert-guests.php:162
+#: frontend/templates/update-guests.php:207
+#: admin/tabs/overview/edit-overview.php:290
+msgid "Citizenship"
+msgstr "La cittadinanza"
+
+#: admin/tabs/overview/overview.php:123
+msgid "Copied"
+msgstr "Copiato"
+
+#: admin/tabs/overview/overview.php:120
+msgid "Copy URL"
+msgstr "Copiare l'URL"
+
+#: frontend/templates/guests-list.php:11
+#: frontend/templates/insert-guests.php:89
+#: frontend/templates/update-guests.php:88
+#: admin/tabs/overview/edit-overview.php:166
+msgid "Country of Birth"
+msgstr "Paese di Nascita"
+
+#. Description of the plugin
+msgid ""
+"Create a self check-in form for each type of accommodation, collect and "
+"store data from accommodation cards with ease on WordPress."
+msgstr ""
+"Creare un self check-in forma per ogni tipo di alloggio, di raccogliere e "
+"memorizzare i dati di alloggio a carte con facilità su WordPress."
+
+#: admin/tabs/overview/overview.php:201 admin/tabs/overview/overview.php:221
+msgid "Create Check-In"
+msgstr "Creare Il Check-In"
+
+#: admin/tabs/tabs.php:34
+msgid "Data successfully deleted."
+msgstr "Dati eliminato con successo."
+
+#: admin/tabs/tabs.php:27
+msgid "Data successfully saved."
+msgstr "I dati salvati correttamente."
+
+#: frontend/templates/guests-list.php:10
+#: frontend/templates/insert-guests.php:83
+#: frontend/templates/update-guests.php:82
+#: admin/tabs/overview/edit-overview.php:158
+msgid "Date of Birth"
+msgstr "Data di Nascita"
+
+#: admin/tabs/overview/overview.php:136
+msgid "Delete"
+msgstr "Eliminare"
+
+#: admin/tabs/overview/edit-overview.php:50
+#: admin/tabs/overview/overview.php:173 admin/tabs/overview/overview.php:280
+msgid "Departure Date"
+msgstr "Data Di Partenza"
+
+#: admin/tabs/settings/settings.php:38 admin/tabs/settings/settings.php:47
+#: admin/tabs/settings/settings.php:56 admin/tabs/settings/settings.php:65
+msgid "Disable"
+msgstr "Disattivare"
+
+#: frontend/templates/guests-list.php:15
+msgid "Document Image"
+msgstr "Immagine Del Documento"
+
+#: frontend/templates/guests-list.php:13
+#: frontend/templates/insert-guests.php:196
+#: frontend/templates/update-guests.php:241
+#: admin/tabs/overview/edit-overview.php:328
+msgid "Document Number"
+msgstr "Numero Del Documento"
+
+#: frontend/templates/guests-list.php:12
+#: frontend/templates/insert-guests.php:179
+#: frontend/templates/update-guests.php:224
+#: admin/tabs/overview/edit-overview.php:309
+msgid "Document Type"
+msgstr "Tipo Di Documento"
+
+#: admin/tabs/settings/settings.php:43
+msgid "Document Upload Field"
+msgstr "Il Caricamento Di Documenti Di Campo"
+
+#: frontend/templates/guests-list.php:81 admin/tabs/overview/overview.php:128
+msgid "Edit"
+msgstr "Modifica"
+
+#: frontend/templates/insert-guests.php:40
+#: frontend/templates/insert-guests.php:48
+#: frontend/templates/update-guests.php:41
+#: frontend/templates/update-guests.php:48
+#: frontend/templates/validate-by-email.php:17
+#: admin/tabs/overview/edit-overview.php:104
+#: admin/tabs/overview/edit-overview.php:114
+msgid "Email"
+msgstr "Email"
+
+#: admin/tabs/settings/settings.php:37 admin/tabs/settings/settings.php:46
+#: admin/tabs/settings/settings.php:55 admin/tabs/settings/settings.php:64
+msgid "Enable"
+msgstr "Attivare"
+
+#: frontend/templates/insert-guests.php:78
+#: frontend/templates/update-guests.php:77
+#: admin/tabs/overview/edit-overview.php:152
+msgid "Female"
+msgstr "Femmina"
+
+#: admin/tabs/overview/overview.php:256
+msgid "First Guest Email"
+msgstr "Primo Ospite Email"
+
+#: admin/tabs/overview/overview.php:171 admin/tabs/overview/overview.php:240
+msgid "First Guest Name"
+msgstr "Primo Ospite Il Nome"
+
+#: admin/tabs/overview/overview.php:264
+msgid "First Guest Phone"
+msgstr "Primo Ospite Di Telefono"
+
+#: admin/tabs/overview/overview.php:248
+msgid "First Guest Surname"
+msgstr "Primo Ospite Cognome"
+
+#: admin/tabs/settings/settings.php:97
+msgid "Get form link with following email tag"
+msgstr "Ottenere link modulo seguente e-mail tag"
+
+#: frontend/templates/insert-guests.php:16
+#: frontend/templates/update-guests.php:17
+#: admin/tabs/overview/edit-overview.php:76
+msgid "Guest Information"
+msgstr "Guest Informazioni"
+
+#: frontend/templates/guests-list.php:5 frontend/templates/update-guests.php:10
+msgid "Guest Information for Booking"
+msgstr "Guest Informazioni per la Prenotazione"
+
+#: frontend/templates/insert-guests.php:145
+#: frontend/templates/update-guests.php:184
+#: admin/tabs/overview/edit-overview.php:271
+msgid "Guest Type"
+msgstr "Tipo Di Ospite"
+
+#: admin/tabs/settings/settings.php:52
+msgid "Guests Email"
+msgstr "Gli Ospiti Email"
+
+#: admin/tabs/settings/settings.php:61
+msgid "Guests Phone"
+msgstr "Gli Ospiti Di Telefono"
+
+#. Author URI of the plugin
+msgid "https://movingwords.it"
+msgstr "https://movingwords.it"
+
+#. URI of the plugin
+msgid "https://wpselfcheckin.it"
+msgstr "https://wpselfcheckin.it"
+
+#: frontend/templates/insert-guests.php:77
+#: frontend/templates/update-guests.php:76
+#: admin/tabs/overview/edit-overview.php:151
+msgid "Male"
+msgstr "Maschio"
+
+#. Author of the plugin
+msgid "movingWords Srl"
+msgstr "movingWords Srl"
+
+#: frontend/templates/insert-guests.php:135
+#: frontend/templates/update-guests.php:132
+#: frontend/templates/update-guests.php:174
+#: admin/tabs/overview/edit-overview.php:213
+#: admin/tabs/overview/edit-overview.php:259
+msgid "Municipality of Birth"
+msgstr "Comune di Nascita"
+
+#: frontend/templates/insert-guests.php:246
+#: frontend/templates/update-guests.php:290
+#: frontend/templates/update-guests.php:332
+#: admin/tabs/overview/edit-overview.php:383
+#: admin/tabs/overview/edit-overview.php:429
+msgid "Municipality of Issue Document"
+msgstr "Comune di Emissione del Documento"
+
+#: frontend/templates/guests-list.php:9 frontend/templates/insert-guests.php:26
+#: frontend/templates/update-guests.php:27
+#: admin/tabs/overview/edit-overview.php:85
+msgid "Name"
+msgstr "Nome"
+
+#: admin/tabs/overview/overview.php:288
+msgid "Number of Guests"
+msgstr "Numero di Ospiti"
+
+#: admin/tabs/tabs.php:9 admin/tabs/tabs.php:11
+msgid "Overview"
+msgstr "Panoramica"
+
+#: public-page.php:251 public-page.php:259 public-page.php:265
+msgid "Page Not Found"
+msgstr "Pagina Non Trovata"
+
+#: frontend/templates/insert-guests.php:57
+#: frontend/templates/insert-guests.php:65
+#: frontend/templates/update-guests.php:57
+#: frontend/templates/update-guests.php:64
+#: admin/tabs/overview/edit-overview.php:126
+#: admin/tabs/overview/edit-overview.php:136
+msgid "Phone"
+msgstr "Telefono"
+
+#: frontend/templates/insert-guests.php:202
+#: frontend/templates/update-guests.php:247
+#: admin/tabs/overview/edit-overview.php:336
+msgid "Place of Issue of Document"
+msgstr "Luogo di Rilascio del Documento"
+
+#: frontend/templates/validate-by-email.php:12
+msgid "Please enter booking email to verify."
+msgstr "Si prega di inserire la prenotazione e-mail per verificare."
+
+#: admin/tabs/settings/settings.php:34
+msgid "Plugin Enable/Disable"
+msgstr "Plugin Per Abilitare/Disabilitare"
+
+#: admin/tabs/settings/settings.php:25
+msgid "Plugin Settings"
+msgstr "Impostazioni Del Plugin"
+
+#: frontend/templates/insert-guests.php:108
+#: frontend/templates/update-guests.php:107
+#: frontend/templates/update-guests.php:149
+#: admin/tabs/overview/edit-overview.php:187
+#: admin/tabs/overview/edit-overview.php:232
+msgid "Province of Birth"
+msgstr "Provincia di Nascita"
+
+#: frontend/templates/insert-guests.php:219
+#: frontend/templates/update-guests.php:265
+#: frontend/templates/update-guests.php:307
+#: admin/tabs/overview/edit-overview.php:356
+#: admin/tabs/overview/edit-overview.php:402
+msgid "Province of Issue Document"
+msgstr "Provincia di Emissione del Documento"
+
+#: frontend/templates/insert-guests.php:21
+#: frontend/templates/update-guests.php:22
+msgid "Required fields are followed by"
+msgstr "I campi obbligatori sono seguiti da"
+
+#: frontend/templates/insert-guests.php:267
+#: admin/tabs/overview/overview.php:301
+msgid "Save"
+msgstr "Salva"
+
+#: frontend/templates/insert-guests.php:76
+#: frontend/templates/insert-guests.php:92
+#: frontend/templates/insert-guests.php:111
+#: frontend/templates/insert-guests.php:138
+#: frontend/templates/insert-guests.php:148
+#: frontend/templates/insert-guests.php:165
+#: frontend/templates/insert-guests.php:182
+#: frontend/templates/insert-guests.php:205
+#: frontend/templates/insert-guests.php:222
+#: frontend/templates/insert-guests.php:249
+#: frontend/templates/update-guests.php:75
+#: frontend/templates/update-guests.php:91
+#: frontend/templates/update-guests.php:110
+#: frontend/templates/update-guests.php:135
+#: frontend/templates/update-guests.php:152
+#: frontend/templates/update-guests.php:177
+#: frontend/templates/update-guests.php:187
+#: frontend/templates/update-guests.php:210
+#: frontend/templates/update-guests.php:227
+#: frontend/templates/update-guests.php:250
+#: frontend/templates/update-guests.php:268
+#: frontend/templates/update-guests.php:293
+#: frontend/templates/update-guests.php:310
+#: frontend/templates/update-guests.php:335
+#: admin/tabs/overview/edit-overview.php:150
+#: admin/tabs/overview/edit-overview.php:170
+#: admin/tabs/overview/edit-overview.php:191
+#: admin/tabs/overview/edit-overview.php:217
+#: admin/tabs/overview/edit-overview.php:236
+#: admin/tabs/overview/edit-overview.php:263
+#: admin/tabs/overview/edit-overview.php:275
+#: admin/tabs/overview/edit-overview.php:294
+#: admin/tabs/overview/edit-overview.php:313
+#: admin/tabs/overview/edit-overview.php:340
+#: admin/tabs/overview/edit-overview.php:360
+#: admin/tabs/overview/edit-overview.php:387
+#: admin/tabs/overview/edit-overview.php:406
+#: admin/tabs/overview/edit-overview.php:433
+#: admin/tabs/settings/settings.php:73
+msgid "Select"
+msgstr "Selezionare"
+
+#: admin/tabs/settings/settings.php:70
+msgid "Select Public Page"
+msgstr "Selezionare Pagina Pubblica"
+
+#. Name of the plugin
+#: admin-page.php:359 admin/tabs/tabs.php:4
+msgid "Self Check-In"
+msgstr "Self Check-In"
+
+#: admin/tabs/tabs.php:16 admin/tabs/tabs.php:18
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: frontend/templates/insert-guests.php:73
+#: frontend/templates/update-guests.php:72
+#: admin/tabs/overview/edit-overview.php:146
+msgid "Sex"
+msgstr "Sesso"
+
+#: admin/tabs/settings/settings.php:89
+msgid "Shortcode for Public Page"
+msgstr "Shortcode per Pagina Pubblica"
+
+#: frontend/templates/guests-list.php:8
+msgid "Sr No."
+msgstr "Sr No."
+
+#: frontend/templates/insert-guests.php:32
+#: frontend/templates/update-guests.php:33
+#: admin/tabs/overview/edit-overview.php:93
+msgid "Surname"
+msgstr "Cognome"
+
+#: admin/tabs/overview/overview.php:174
+msgid "Total Guests"
+msgstr "Totale Ospiti"
+
+#: frontend/templates/update-guests.php:389
+#: admin/tabs/overview/edit-overview.php:506
+msgid "Update"
+msgstr "Aggiornamento"
+
+#: frontend/templates/update-guests.php:345
+#: admin/tabs/overview/edit-overview.php:444
+msgid "Upload document image"
+msgstr "Caricamento dell'immagine del documento"
+
+#: frontend/templates/validate-by-email.php:24
+#| msgid "Verfiy"
+msgid "Verify"
+msgstr "Verificare"
+
+#: functions.php:391
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Non si dispone di autorizzazioni sufficienti per accedere a questa pagina."
